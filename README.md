@@ -25,3 +25,7 @@ Speaker: [Stefan Mayer](https://uni-tuebingen.de/en/148617)
 ### Sign and order constraints in hierarchical prior distributions and its benefits for counterfactual predictions
 
 Speaker: [Max Pachali](https://sites.google.com/site/mjpachali/)
+
+* Slides: [value_constraints_pachali.pdf](.pdf)
+
+
