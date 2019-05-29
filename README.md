@@ -26,6 +26,6 @@ Speaker: [Stefan Mayer](https://uni-tuebingen.de/en/148617)
 
 Speaker: [Max Pachali](https://sites.google.com/site/mjpachali/)
 
-* Slides: [value_constraints_pachali.pdf](.pdf)
+* Slides: [value_constraints_pachali.pdf](sign_order_constraints/.pdf)
 
 
